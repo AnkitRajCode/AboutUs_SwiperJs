@@ -1,0 +1,128 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#coreMember{
+    float: left;
+    font-size: 27px;
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    width: 90%;
+    color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+.row{
+    width: 100%;
+}
+#corecard{
+    width: 24%;
+    height: 350px; 
+    float: left;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../image/swirlLiq.png);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    margin-left: 7%;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 4rem;
+    color: white;
+}
+.dpcm{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:inset 12px 12px 16px 0 rgba(0,0,0,0.25),
+       inset -8px -8px 12px 0 rgba(255,255,255,0.15);
+    padding: 5px;
+}
+.gfglogo{
+     width: 30px!important;
+    float: left;
+    margin-left: 10%;
+    margin-top: -2%;
+}
+.words{
+    padding: 10px 0%;
+    float: left;
+    font-size: 15px;
+    width: 100%;
+}
+/*lead*/
+#lead{
+    float: left;
+    font-size: 27px;
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    margin-left: 2%;
+    width: 96%;
+}
+#coremembercard{
+    width: 17.75%;
+    height: 270px; 
+    float: left;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../image/swirlLiq.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    margin-left: 2%;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 4rem;
+    color: white;
+}
+.dpcmlead{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.social{
+    width: 100%;
+    text-align: center;
+}
+/*swiper*/
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+}
+.swiper-slide {
+  width: 250px;
+  height: 270px; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../image/swirlLiq.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    margin-left: 2%;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 4rem;
+    color: white;
+}
+.namecm{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.desgcm{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+}
+.logo{
+    width: 10%!important;
+    margin-left: 7%;
+}
+.dpcmlead{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow:inset 8px 8px 12px 0 rgba(0,0,0,0.25),
+       inset -4px -4px 8px 0 rgba(255,255,255,0.15);
+    padding: 5px;
+}
